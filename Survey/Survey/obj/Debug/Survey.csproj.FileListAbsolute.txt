@@ -7,3 +7,12 @@ c:\users\oo118\documents\visual studio 2012\Projects\Survey\Survey\obj\Debug\Sur
 c:\users\oo118\documents\visual studio 2012\Projects\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
 c:\users\oo118\documents\visual studio 2012\Projects\Survey\Survey\obj\Debug\Survey.exe
 c:\users\oo118\documents\visual studio 2012\Projects\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\oo118\Documents\activity_three\Survey\Survey\bin\Debug\Survey.exe.config
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.exe
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.pdb
+C:\Users\oo118\Documents\activity_three\Survey\Survey\bin\Debug\Survey.exe
+C:\Users\oo118\Documents\activity_three\Survey\Survey\bin\Debug\Survey.pdb
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.Form1.resources
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.Properties.Resources.resources
+C:\Users\oo118\Documents\activity_three\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
